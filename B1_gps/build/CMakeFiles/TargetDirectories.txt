@@ -1,0 +1,8 @@
+/home/ronaldvelasco/B1/build/CMakeFiles/install/strip.dir
+/home/ronaldvelasco/B1/build/CMakeFiles/install/local.dir
+/home/ronaldvelasco/B1/build/CMakeFiles/install.dir
+/home/ronaldvelasco/B1/build/CMakeFiles/list_install_components.dir
+/home/ronaldvelasco/B1/build/CMakeFiles/rebuild_cache.dir
+/home/ronaldvelasco/B1/build/CMakeFiles/edit_cache.dir
+/home/ronaldvelasco/B1/build/CMakeFiles/B1.dir
+/home/ronaldvelasco/B1/build/CMakeFiles/exampleB1.dir
